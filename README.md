@@ -1,9 +1,15 @@
 Name: NANI GEDELA
+
 Company: CODETECH IT SOLUTION
+
 Id: CT6WDS268
+
 Domain: MACHINE LEARNING
+
 Duration: DEC TO JAN
+
 Mnetor: SRAVANI GOUNI
+
 
 Overview of the project
 
