@@ -13,6 +13,9 @@ Mnetor: SRAVANI GOUNI
 
 Overview of the project
 
+![Screenshot 2024-12-28 201043](https://github.com/user-attachments/assets/a9b91cfe-d41d-4d21-9f19-37b5851e9e2a)
+
+
 Project: BMI Calculator App
 
 Project Description:
