@@ -8,7 +8,7 @@ Domain: MACHINE LEARNING
 
 Duration: DEC TO JAN
 
-Mnetor: SRAVANI GOUNI
+Mentor: SRAVANI GOUNI
 
 
 Overview of the project
