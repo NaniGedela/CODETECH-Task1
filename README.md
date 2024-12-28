@@ -42,22 +42,34 @@ Dropdown or toggle buttons for unit selection (metric/imperial).
 Additional Features (optional):
 
 Technology Stack:
-Frontend: React Native for cross-platform compatibility (iOS and Android) or Flutter for a similar approach.
-Backend (optional, for advanced features like user accounts and data storage): Node.js with a lightweight database like Firebase or SQLite.
-Testing: Unit and UI testing using Jest, React Native Testing Library, or Flutter's testing tools.
+
+Frontend: React Native for cross-platform compatibility (iOS and Android) or Flutter for a 
+similar approach.
+Backend (optional, for advanced features like user accounts and data storage): Node.js with a 
+lightweight database like Firebase or SQLite.
+
+Testing: Unit and UI testing using Jest, React Native Testing Library, or Flutter's testing 
+tools.
 Development Phases:
-Phase 1: Planning & Design
-  Define app layout and flow.
-  Design mockups and wireframes.
-Phase 2: Core Implementation
-  Develop the BMI calculation logic.
-  Create the user interface.
-  Add input validation.
+
+Phase 1:
+Planning & Design
+Define app layout and flow.
+Design mockups and wireframes.
+
+Phase 2:
+Core Implementation
+Develop the BMI calculation logic.
+Create the user interface.
+Add input validation.
+
 Phase 3: Feature Enhancements
-  Integrate BMI categorization.
-  Add optional features (e.g., history tracking).
+Integrate BMI categorization.
+Add optional features (e.g., history tracking).
+
 Phase 4: Testing
-  Conduct functional, UI, and user acceptance testing.
+Conduct functional, UI, and user acceptance testing.
+
 Phase 5: Deployment
 Publish the app on Google Play Store and Apple App Store.
 
